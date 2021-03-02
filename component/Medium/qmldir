@@ -1,0 +1,6 @@
+﻿module Medium
+ListAirline                     1.0                 ListAirline.qml
+ListTerminal                    1.0                 ListTerminal.qml
+ListFunction                    1.0                 ListFunction.qml
+ListAirlineFunction             1.0                 ListAirlineFunction.qml
+MiniWindow                      1.0                 MiniWindow.qml

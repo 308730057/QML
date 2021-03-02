@@ -1,0 +1,12 @@
+﻿module Small
+ButtonAirlist                       1.0                 ButtonAirlist.qml
+ButtonTerminalList                  1.0                 ButtonTerminalList.qml
+ButtonFunction                      1.0                 ButtonFunction.qml
+MSearchbar                          1.0                 MSearchbar.qml
+FontList                            1.0                 FontList.qml
+ButtonAirlineFunction               1.0                 ButtonAirlineFunction.qml
+ButtonAirNumber                     1.0                 ButtonAirNumber.qml
+ButtonFinalConfirmation             1.0                 ButtonFinalConfirmation.qml
+Test                                1.0                 Text.qml
+ButtonSortTerminal                  1.0                 ButtonSortTerminal.qml
+ButtonMiniWindow                    1.0                 ButtonMiniWindow.qml

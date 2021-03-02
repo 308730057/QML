@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>component/Small/ButtonAirlist.qml</file>
+        <file>component/Small/qmldir</file>
+        <file>component/Medium/ListAirline.qml</file>
+        <file>component/Medium/qmldir</file>
+        <file>component/Small/ButtonTerminalList.qml</file>
+        <file>component/Medium/ListTerminal.qml</file>
+        <file>component/Small/ButtonFunction.qml</file>
+        <file>component/Medium/ListFunction.qml</file>
+        <file>component/Small/MSearchbar.qml</file>
+        <file>component/Large/DialogMain.qml</file>
+        <file>component/Large/qmldir</file>
+        <file>component/Small/FontList.qml</file>
+        <file>component/Small/Test.qml</file>
+        <file>component/Small/ButtonAirlineFunction.qml</file>
+        <file>component/Medium/ListAirlineFunction.qml</file>
+        <file>component/Large/DialogVice.qml</file>
+        <file>component/Small/ButtonAirNumber.qml</file>
+        <file>component/Small/ButtonFinalConfirmation.qml</file>
+        <file>component/Small/ButtonSortTerminal.qml</file>
+        <file>component/Small/ButtonMiniWindow.qml</file>
+        <file>component/Medium/MiniWindow.qml</file>
+        <file>component/Small/ProgressRound.qml</file>
+    </qresource>
+</RCC>
